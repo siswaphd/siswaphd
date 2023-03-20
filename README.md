@@ -1,4 +1,13 @@
-### Hi there 👋
+## Background and research interest
+
+Just some projects and applications that I have been working on, or some stuffs that I am currently learning. Good to put some stufss here to share, and as good documentation for future references. I learned a lot from the internet, and time to pay it forward 😄
+
+I am interested mainly in data science, particulalry in <b> spatial analysis, remote sensing, machine learning, time-series analysis, statistic, and map/data visualisation.</b>
+
+
+### Work experience and education
+
+![alt text](https://github.com/siswaphd/siswaphd/blob/main/Edu_profile.png "Logo Title Text 1")
 
 <!--
 **siswaphd/siswaphd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
