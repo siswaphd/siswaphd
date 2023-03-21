@@ -23,10 +23,7 @@ Some packages that I am using frequently
 
 <b>Spatial analysis</b>
 
-<img src="https://pysal.org/pysal_nav_logo.svg"  width="100" height="20">
-<img src="https://geopandas.org/en/stable/_static/geopandas_logo_web.svg"  width="120" height="40">
-<img src="https://www.sqlalchemy.org/img/sqla_logo.png"  width="100" height="25">
-<img src="https://www.qgis.org/en/_static/logo.png"  width="40" height="40"> <b style="color:green">QGIS </b>
+<img src="https://pysal.org/pysal_nav_logo.svg"  width="100" height="20"> <img src="https://geopandas.org/en/stable/_static/geopandas_logo_web.svg"  width="120" height="40"> <img src="https://www.sqlalchemy.org/img/sqla_logo.png"  width="100" height="25"> <img src="https://www.qgis.org/en/_static/logo.png"  width="40" height="40"> <b style="color:green">QGIS </b>
 
 <b>Remote sensing</b>:
 
@@ -62,6 +59,7 @@ Some packages that I am using frequently
 
 ## <span style="color:blue"><b>Publications</b></span>
 
+<img src="https://github.com/siswaphd/siswaphd/blob/main/CV-GFZ_ImgID5.png"  width="100" height="200"> <img src="https://github.com/siswaphd/siswaphd/blob/main/CV-GFZ_ImgID4.png"  width="100" height="200">
 
 * Recent results from an ecohydrological study of forest species in drained tropical peatlands<br/>
 Ismail, Haghighi, A.T., Marttila, H., Karyanto, O., Klover, B. (2023) <br/>
