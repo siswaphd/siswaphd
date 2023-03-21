@@ -1,6 +1,6 @@
 ## <span style="color:blue"><b>Background and research interest</b></span>
 
-Just some projects and applications that I have been working on, or some stuffs that I am currently learning. Good to put some stufs here to share, and as good documentation for my future references. I learned a lot from the internet, and time to pay it forward 😄
+Just some projects and applications that I have been working on, and some stuffs that I am currently learning. Good to put some stufs here to share, and as good documentation for my future references. I learned a lot from the internet, and time to pay it forward 😄
 
 I had a PhD in interdiciplinary study, and I am interested mainly in data science, particulalry in <b> spatial analysis, remote sensing, machine learning, time-series analysis, statistic, and map/data visualisation.</b>
 
@@ -59,7 +59,7 @@ Some packages that I am using frequently
 
 ## <span style="color:blue"><b>Publications</b></span>
 
-<img src="https://github.com/siswaphd/siswaphd/blob/main/CV-GFZ_ImgID5.png"  width="100" height="200"> <img src="https://github.com/siswaphd/siswaphd/blob/main/CV-GFZ_ImgID4.png"  width="100" height="200">
+<img src="https://github.com/siswaphd/siswaphd/blob/main/CV-GFZ_ImgID5.png"  width="100" height="150">   <img src="https://github.com/siswaphd/siswaphd/blob/main/CV-GFZ_ImgID4.png"  width="100" height="150">
 
 * Recent results from an ecohydrological study of forest species in drained tropical peatlands<br/>
 Ismail, Haghighi, A.T., Marttila, H., Karyanto, O., Klover, B. (2023) <br/>
@@ -72,6 +72,10 @@ Ismail, et al. (2021) <br/>
 * Remote Sensing Methods for Northern Peatland Restoration Monitoring - a Review<br/>
 Ikkala, L., Ismail, Woff, F., et al. <br/>
 <i>Under revision in journal of Remote Sensing of Environment</i>
+
+* Understanding the forest dynamic in tropical peat swamp forest using active remote sensing<br/>
+Ismail, Solberg, S., et al. <br/>
+<i>Under preparation</i>
 
 * Water Management Options to Mitigate Peatland Fire Risks in Indonesia<br/>
 Ismail, et al. (2018) <br/>
