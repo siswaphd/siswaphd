@@ -59,34 +59,38 @@ Some packages that I am using frequently
 
 ## <span style="color:blue"><b>Publications</b></span>
 
-<img src="https://github.com/siswaphd/siswaphd/blob/main/CV-GFZ_ImgID5.png"  width="100" height="135">   <img src="https://github.com/siswaphd/siswaphd/blob/main/CV-GFZ_ImgID4.png"  width="100" height="135">
+<img src="https://github.com/siswaphd/siswaphd/blob/main/CV-GFZ_ImgID5.png"  width="100" height="135">   <img src="https://github.com/siswaphd/siswaphd/blob/main/CV-GFZ_ImgID4.png"  width="100" height="135"> <img src="https://github.com/siswaphd/siswaphd/blob/main/CV-PO.png"  width="100" height="135">
 
 * Recent results from an ecohydrological study of forest species in drained tropical peatlands<br/>
-Ismail, Haghighi, A.T., Marttila, H., Karyanto, O., Klover, B. (2023) <br/>
+Ismail, Haghighi, A.T., Marttila, H., Karyanto, O., & Klove, B. (2023) <br/>
 <b>Agricultural and Forest Meteorology</b> 331: 109338 [doi:10.1016/j.agrformet.2023.109338](https://doi.org/10.1016/j.agrformet.2023.109338)
 
 * Water table variation on different land use units in a drained tropical peatland island of Indonesia<br/>
-Ismail, et al. (2021) <br/>
+Ismail, Haghighi, A.T., Marttila, H., Kurniawan, U., Karyanto, O., & Klove, B. (2021) <br/>
 <b>Hydrology Research</b> 52(6): 1372-1388 [doi:10.2166/nh.2021.062](https://doi.org/10.2166/nh.2021.062)
 
 * Remote Sensing Methods for Northern Peatland Restoration Monitoring - a Review<br/>
 Ikkala, L., Ismail, Woff, F., et al. <br/>
 <i>Under revision in journal of Remote Sensing of Environment</i>
 
-* Understanding the forest dynamic in tropical peat swamp forest using active remote sensing<br/>
-Ismail, Solberg, S., et al. <br/>
+* Understanding the spatial and temporal variation in land-use change and forest disturbances in tropical peat swamp forest using active remote sensing<br/>
+Ismail, Solberg, S., Haghighi, A.T., Marttila, H., Karyanto, O., & Klove, B. <br/>
 <i>Under preparation</i>
 
 * Water Management Options to Mitigate Peatland Fire Risks in Indonesia<br/>
-Ismail, et al. (2018) <br/>
+Ismail, Karyanto, O., & Klove, B. (2018) <br/>
 <b>EGU General Assembly</b> [abstract](https://meetingorganizer.copernicus.org/EGU2018/EGU2018-12236.pdf)
 
 * Multi-Sensors Remote Sensing for Mapping and Monitoring Canals on Tropical Peatland<br/>
-Ismail, et al. (2021) <br/>
+Ismail, Karyanto, O., & Aditya, T. (2018) <br/>
 <b>4th International Conference on Science and Technology (ICST)</b> 52(6): 1372-1388 [doi:10.1109/ICSTC.2018.8528628](https://doi.org/10.1109/ICSTC.2018.8528628)
 
+* Drivers of recurrent peatfire in Riau and South Sumatera, Indonesia<br/>
+Karyanto, Ismail, Susanti, Pudyatmoko, & Aditya. (2016) <br/>
+<b>15th International Peat Congress</b> [Proceeding](https://peatlands.org/document/drivers-of-recurrent-peatfire-in-riau-and-south-sumatera-indonesia/)
+
 * Detecting and Quantifying Forest Change: The Potential of Existing C- and X-Band Radar Datasets<br/>
-Tanase, M., Ismail, et al. (2015) <br/>
+Tanase, M.A., Ismail, Lowel, K., Karyanto, O., & Santoro, M. (2015) <br/>
 <b>PLoS ONE</b> 10(6): e0131079 [doi:10.1371/journal.pone.0131079](https://doi.org/10.1371/journal.pone.0131079)
 
 <!--
