@@ -6,8 +6,8 @@ I had a PhD in interdiciplinary study in environment-forestry-hydrology-remote s
 
 See some of them in [<b>My-repo</b>](https://github.com/siswaphd/My_repo)
 
-
 ### <span style="color:blue">Work experience and education</span>
+Higlight of my work experience and education
 
 ![alt text](https://github.com/siswaphd/siswaphd/blob/main/Edu_profile.png "Logo Title Text 1")
 
@@ -16,10 +16,8 @@ See some of them in [<b>My-repo</b>](https://github.com/siswaphd/My_repo)
 
 I am an enthusias user of Python and R for data science, particulalry for spatial-temporal data. I do <b>not</b> claim that I am an expert in all these softwares/packages, but I can manage to utilise them according to the most need. 
 
-Some packages that I am using frequently
-
  <img src="https://plotly.com/all_static/images/python.png"  width="40" height="40"> <b  style="color:brown">Python</b><br />
-
+Some packages that I am using frequently
 
 <b>Spatial analysis</b>
 
@@ -59,7 +57,7 @@ Some packages that I am using frequently
 
 ## <span style="color:blue"><b>Publications</b></span>
 
-<img src="https://github.com/siswaphd/siswaphd/blob/main/CV-GFZ_ImgID5.png"  width="100" height="135">   <img src="https://github.com/siswaphd/siswaphd/blob/main/CV-GFZ_ImgID4.png"  width="100" height="135"> <img src="https://github.com/siswaphd/siswaphd/blob/main/CV-PO.png"  width="100" height="135">
+<img src="https://github.com/siswaphd/siswaphd/blob/main/CV-GFZ_ImgID5.png"  width="100" height="135"> &emsp; &emsp;  <img src="https://github.com/siswaphd/siswaphd/blob/main/CV-GFZ_ImgID4.png"  width="100" height="135"> &emsp; &emsp;<img src="https://github.com/siswaphd/siswaphd/blob/main/CV-PO.png"  width="100" height="135">
 
 * Recent results from an ecohydrological study of forest species in drained tropical peatlands<br/>
 Ismail, Haghighi, A.T., Marttila, H., Karyanto, O., & Klove, B. (2023) <br/>
